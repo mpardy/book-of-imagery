@@ -207,7 +207,7 @@ Once satellite images are prepared, different techniques are used to extract use
 
 ### Image Classification
 
-Image classification is a way to sort parts of a satellite image into meaningful groups, such as forests, water bodies, or urban areas. Some techniques rely on examples provided by experts to “teach” the computer what each category looks like (supervised classification), while others automatically find patterns without prior examples (unsupervised classification) [@lu2007survey]. More recently, advanced artificial intelligence methods, like deep learning, have been used to improve accuracy by recognising complex patterns in high-resolution images [@li2018deep]. Figure 1 shows a recent 2024 land cover map for the UK that was derived from satellite imagery.
+Image classification is a way to sort parts of a satellite image into meaningful groups, such as forests, water bodies, or urban areas. Some techniques rely on examples provided by experts to “teach” the computer what each category looks like (supervised classification), while others automatically find patterns without prior examples (unsupervised classification) [@lu2007survey]. More recently, advanced artificial intelligence methods, like deep learning, have been used to improve accuracy by recognising complex patterns in high-resolution images [@li2018deep]. Figure 1 shows a recent 2024 land cover map for the UK that was derived from satellite imagery. 
 
 ![[DAB:Caption?]{.mark}](images/land_cover_UK_2024.png){#fig:land_cover width="80%" fig-cap="Satellite derived land cover map for UK, 2024. Source: UK Centre for Ecology and Hydrology (https://www.ceh.ac.uk/data/ukceh-land-cover-maps)"}
 
